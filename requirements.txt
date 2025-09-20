@@ -9,8 +9,7 @@ websockets
 pandas
 polars
 numpy
-git+https://github.com/twopirllc/pandas-ta.git
-scikit-learn
+pandas-ta==0.3.14b0
 xgboost
 mlflow
 dvc[ssh]
