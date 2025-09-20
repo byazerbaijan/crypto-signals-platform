@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+.env.*
+dist/
+node_modules/
+target/
+.DS_Store
+.idea/
+.vscode/
+data/
+mlruns/
+dvc.lock
