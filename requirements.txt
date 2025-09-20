@@ -24,3 +24,5 @@ keyring
 pytest
 pytest-asyncio
 respx
+
+binance-connector
