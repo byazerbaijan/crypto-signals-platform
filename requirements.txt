@@ -9,7 +9,7 @@ websockets
 pandas
 polars
 numpy
-pandas_ta
+pandas-ta
 scikit-learn
 xgboost
 mlflow
