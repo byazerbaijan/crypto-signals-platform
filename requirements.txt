@@ -9,7 +9,7 @@ websockets
 pandas
 polars
 numpy
-pandas-ta==0.3.14b0
+pandas-ta>=0.4.71b0
 xgboost
 mlflow
 dvc[ssh]
